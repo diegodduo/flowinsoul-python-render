@@ -4,3 +4,4 @@ edge-tts
 pillow
 requests
 python-multipart
+pydantic
